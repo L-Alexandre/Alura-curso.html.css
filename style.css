@@ -16,6 +16,21 @@ body{
 }
 
 .apresentacao{
+    margin: 10%;
     display: flex;
-    align-items: center
+    align-items: center;
+    justify-content: space-between;
+}
+
+.apresentacao__conteudo{
+    widith: 615px;
+
+}
+
+.apresentacao__conteudo__titulo{
+    font-size: 36px;
+}
+
+.apresentacao__conteudo__titulo__texto{
+    font-size: 24px;
 }
